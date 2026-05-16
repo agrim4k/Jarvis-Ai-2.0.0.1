@@ -448,7 +448,7 @@ if (
       {
         method: "POST",
         headers: {
-          Authorization: "Bearer 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",
+          Authorization: "Bearer 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",
           "Content-Type": "application/json",
         },
         body: JSON.stringify({

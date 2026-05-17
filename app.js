@@ -448,7 +448,6 @@ if (
       {
         method: "POST",
         headers: {
-          Authorization: "Bearer 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",
           Authorization: "Bearer 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",
           "Content-Type": "application/json",
         },
